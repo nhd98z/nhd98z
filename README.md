@@ -1,6 +1,6 @@
 # nhd98z
 
-### *Blockchain Developer | Fullstack Developer*
+### *Blockchain | Fullstack Developer*
 
 I'm building [AnySpend](https://anyspend.com) at NPC Labs.
 

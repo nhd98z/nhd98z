@@ -1,6 +1,3 @@
-![nhd98z's Stats](https://github-readme-stats.vercel.app/api?username=nhd98z&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![nhd98z's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nhd98z&theme=vue-dark&hide_border=true)
-
 # nhd98z
 
 ### *Blockchain Developer | Fullstack Developer*
@@ -27,3 +24,7 @@ I'm building [AnySpend](https://anyspend.com) at NPC Labs.
 ## Contact
 
 - **Twitter:** [@nhd98z](https://twitter.com/nhd98z)  
+
+![nhd98z's Stats](https://github-readme-stats.vercel.app/api?username=nhd98z&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![nhd98z's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nhd98z&theme=vue-dark&hide_border=true)

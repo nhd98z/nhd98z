@@ -19,11 +19,7 @@ I'm building [AnySpend](https://anyspend.com) at NPC Labs.
 
 ## Education
 
-- Bachelor's in Software Engineering, FPT University  
-
-## Contact
-
-- **Twitter:** [@nhd98z](https://twitter.com/nhd98z)  
+- Bachelor's in Software Engineering, FPT University
 
 ![nhd98z's Stats](https://github-readme-stats.vercel.app/api?username=nhd98z&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
